@@ -1,0 +1,40 @@
+{
+    "layout": {
+        "columns": [
+            {
+                "cells": [
+                    {
+                        "subcells": [
+                            {
+                                "elements": [
+                                    {
+                                        "defaultWidth": 512,
+                                        "height": 233,
+                                        "maxHeight": 758,
+                                        "maxWidth": 2048,
+                                        "minHeight": 68,
+                                        "minWidth": 128,
+                                        "widgetid": "654cb67eb99e3e002ace142b"
+                                    }
+                                ],
+                                "index": 0,
+                                "pxlWidth": 0,
+                                "stretchable": false,
+                                "width": 100
+                            }
+                        ]
+                    }
+                ],
+                "index": 0,
+                "pxlWidth": 0,
+                "width": 100
+            }
+        ],
+        "container": {
+        },
+        "instanceid": "195EA-49AC-0E",
+        "type": "columnar"
+    },
+    "previewLayout": [
+    ]
+}
