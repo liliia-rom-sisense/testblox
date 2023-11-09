@@ -1,6 +1,7 @@
 {
     "filters": [
         {
+            "disabled": true,
             "instanceid": "CF18F-4BCC-3A",
             "isCascading": false,
             "jaql": {
